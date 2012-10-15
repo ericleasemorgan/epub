@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <!--The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0-->
+      <meta name="dtb:uid" content="alex:stoker-dracula-693"/>
+      <meta name="epub-creator" content="Eric Lease Morgan (Infomotions, Inc.)"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Dracula</text>
+   </docTitle>
+   <docAuthor>
+      <text>Bram Stoker</text>
+   </docAuthor>
+   <navMap>
+      <navPoint id='navpoint-1' playOrder='1'><navLabel><text>Title page</text></navLabel><content src='title-page.xml'/></navPoint>
+      <navPoint id='navpoint-2' playOrder='2'><navLabel><text>Publisher's page</text></navLabel><content src='publisher-page.xml'/></navPoint>
+      <navPoint id='navpoint-3' playOrder='3'><navLabel><text>
+					Chapter I
+				</text></navLabel><content src='chapter-1.xml'/></navPoint>
+<navPoint id='navpoint-4' playOrder='4'><navLabel><text>
+					Chapter II
+				</text></navLabel><content src='chapter-2.xml'/></navPoint>
+<navPoint id='navpoint-5' playOrder='5'><navLabel><text>
+					Chapter III
+				</text></navLabel><content src='chapter-3.xml'/></navPoint>
+<navPoint id='navpoint-6' playOrder='6'><navLabel><text>Chapter IV</text></navLabel><content src='chapter-4.xml'/></navPoint>
+<navPoint id='navpoint-7' playOrder='7'><navLabel><text>
+					Chapter V
+				</text></navLabel><content src='chapter-5.xml'/></navPoint>
+<navPoint id='navpoint-8' playOrder='8'><navLabel><text>
+					Chapter VI
+				</text></navLabel><content src='chapter-6.xml'/></navPoint>
+<navPoint id='navpoint-9' playOrder='9'><navLabel><text>Chapter VII</text></navLabel><content src='chapter-7.xml'/></navPoint>
+<navPoint id='navpoint-10' playOrder='10'><navLabel><text>
+					Chapter VIII
+				</text></navLabel><content src='chapter-8.xml'/></navPoint>
+<navPoint id='navpoint-11' playOrder='11'><navLabel><text>Chapter IX</text></navLabel><content src='chapter-9.xml'/></navPoint>
+<navPoint id='navpoint-12' playOrder='12'><navLabel><text>
+					Chapter X
+				</text></navLabel><content src='chapter-10.xml'/></navPoint>
+<navPoint id='navpoint-13' playOrder='13'><navLabel><text>
+					Chapter XI
+				</text></navLabel><content src='chapter-11.xml'/></navPoint>
+<navPoint id='navpoint-14' playOrder='14'><navLabel><text>
+					Chapter XII
+				</text></navLabel><content src='chapter-12.xml'/></navPoint>
+<navPoint id='navpoint-15' playOrder='15'><navLabel><text>
+					Chapter XIII
+				</text></navLabel><content src='chapter-13.xml'/></navPoint>
+<navPoint id='navpoint-16' playOrder='16'><navLabel><text>
+					Chapter XIV
+				</text></navLabel><content src='chapter-14.xml'/></navPoint>
+<navPoint id='navpoint-17' playOrder='17'><navLabel><text>
+					Chapter XV
+				</text></navLabel><content src='chapter-15.xml'/></navPoint>
+<navPoint id='navpoint-18' playOrder='18'><navLabel><text>
+					Chapter XVI
+				</text></navLabel><content src='chapter-16.xml'/></navPoint>
+<navPoint id='navpoint-19' playOrder='19'><navLabel><text>
+					Chapter XVI
+				</text></navLabel><content src='chapter-17.xml'/></navPoint>
+<navPoint id='navpoint-20' playOrder='20'><navLabel><text>
+					Chapter XVIII
+				</text></navLabel><content src='chapter-18.xml'/></navPoint>
+<navPoint id='navpoint-21' playOrder='21'><navLabel><text>
+					Chapter XIX
+				</text></navLabel><content src='chapter-19.xml'/></navPoint>
+<navPoint id='navpoint-22' playOrder='22'><navLabel><text>
+					Chapter XX
+				</text></navLabel><content src='chapter-20.xml'/></navPoint>
+<navPoint id='navpoint-23' playOrder='23'><navLabel><text>
+					Chapter XXI
+				</text></navLabel><content src='chapter-21.xml'/></navPoint>
+<navPoint id='navpoint-24' playOrder='24'><navLabel><text>
+					Chapter XXII
+				</text></navLabel><content src='chapter-22.xml'/></navPoint>
+<navPoint id='navpoint-25' playOrder='25'><navLabel><text>
+					Chapter XXIII
+				</text></navLabel><content src='chapter-23.xml'/></navPoint>
+<navPoint id='navpoint-26' playOrder='26'><navLabel><text>
+					Chapter XXIV
+				</text></navLabel><content src='chapter-24.xml'/></navPoint>
+<navPoint id='navpoint-27' playOrder='27'><navLabel><text>
+					Chapter XXV
+				</text></navLabel><content src='chapter-25.xml'/></navPoint>
+<navPoint id='navpoint-28' playOrder='28'><navLabel><text>
+					Chapter XXVI
+				</text></navLabel><content src='chapter-26.xml'/></navPoint>
+<navPoint id='navpoint-29' playOrder='29'><navLabel><text>
+					Chapter XXVII
+				</text></navLabel><content src='chapter-27.xml'/></navPoint>
+
+   </navMap>
+</ncx>

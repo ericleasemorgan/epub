@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>"Next-Generation" Library Catalogs</dc:title>
+      <dc:creator opf:role="aut">Eric Lease Morgan</dc:creator>
+      <dc:date opf:event="original-publication">2009-03-25</dc:date>
+      <dc:publisher>Infomotions, Inc.</dc:publisher>
+      <dc:date opf:event="epub-publication">2010-03-21</dc:date>
+      <dc:subject>Purdue University</dc:subject>
+<dc:subject>next generation library catalogs</dc:subject>
+<dc:subject>Indiana On-Line User's Group (IOLUG)</dc:subject>
+<dc:subject>presentations</dc:subject>
+<dc:subject>librarianship</dc:subject>
+
+      <dc:rights>This document is distributed under the GNU Public License.</dc:rights>
+      <dc:identifier id="EPB-UUID">musings-379</dc:identifier>
+      <dc:language>en</dc:language>
+   </metadata>
+   <manifest>
+      <!-- Content Documents -->
+      <item id="contents" href="content.xml" media-type="application/xhtml+xml"/>
+            
+      <!-- CSS Style Sheets -->
+            
+      <!-- Images -->
+      <item id='logo' href="images/logo.gif" media-type="image/gif" />
+
+      <!-- NCX -->
+      <item id="ncx" href="content.ncx" media-type="application/x-dtbncx+xml"/>
+      
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="contents" linear="yes"/>
+   </spine>
+</package>

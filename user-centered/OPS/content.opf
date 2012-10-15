@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
+   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>Implementing user-centered experiences in a networked environment</dc:title>
+      <dc:creator opf:role="aut">Eric Lease Morgan</dc:creator>
+      <dc:date opf:event="original-publication">2009-05-03</dc:date>
+      <dc:publisher>Infomotions, Inc.</dc:publisher>
+      <dc:date opf:event="epub-publication">2010-02-28</dc:date>
+      <dc:subject>user-centered design</dc:subject>
+<dc:subject>SOCHE</dc:subject>
+<dc:subject>presentations</dc:subject>
+<dc:subject>librarianship</dc:subject>
+
+      <dc:rights>This document is distributed under the GNU Public License.</dc:rights>
+      <dc:identifier id="EPB-UUID">musings-385</dc:identifier>
+      <dc:language>en</dc:language>
+   </metadata>
+   <manifest>
+      <!-- Content Documents -->
+      <item id="contents" href="content.xml" media-type="application/xhtml+xml"/>
+            
+      <!-- CSS Style Sheets -->
+            
+      <!-- Images -->
+              
+      <!-- NCX -->
+      <item id="ncx" href="content.ncx" media-type="application/x-dtbncx+xml"/>
+      
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="contents" linear="yes"/>
+   </spine>
+</package>

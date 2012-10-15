@@ -1,0 +1,590 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cataloging digital mediums / Eric Lease Morgan</title>
+</head>
+<body>
+<div class="content"><img src="images/logo.gif" alt="logo"/><h1>Cataloging digital mediums</h1>
+  
+  
+    
+    
+    
+      <h1/>
+	<p>
+		This article examines some of the issues surrounding the organization and classification of digital resources. It does this in three parts. First, it provides a general overview of the types of digital resoruces libraries can collect, organize, preserve, and provide access to. Second, it examines some of the philosophical and pragmatic considerations involved in defining the universe of digital resources. Third, it describes an informal research project (the Alcuin Project of the North Carolina State University Libraries) whose goal is to put into practice some solutions to the issues outlined above.
+	</p>
+	<h2>
+			Traditional Resources are Physical and Immutable
+		</h2>
+		
+		<p>
+			Traditionally, items listed in a library's catalog have been print resources like monographs, serials, or sheet music. Other, less common items included maps, globes, microfiche, phonograph records, audio cassettes, video cassettes, video laser disks, and even realia.
+		</p>
+		<p>
+			The defining characteristic of these materials is their physical, tangible nature. Since these resources are physical manifestations of information, they can not, by definition, occupy more than one space in any single instant of time. Consequently, the cataloging process could assign codes (call numbers) to these items and place the items in designated locations. The cataloging process, for the most part, did not have to concern itself with the movement of those items from one location to another. Once items had been assigned location codes, it was rare the location codes (and thus the actual locations) of the items would change. In short, because these materials are physical in nature, traditional resources could be physical collected and assigned specific locations codes. Thus, libraries have had direct control over the locations of items in their collections.
+		</p>
+		<p>
+			Another characteristic of these traditional resources is their relative immutability. The contents of books or journals do not change over time, except for the occational patron who writes in the margins. Even more so, things like microfiche, phonograph records, or video laser disks must be completely remastered before their contents can be altered. This immutable quality of traditional information resources made it possible for libraries to create authoritative collections of materials, since the collected items were considered exact duplicates of their originals. Thus, librarians could feel relatively certain about their collection's authenticity.
+		</p>
+	
+	<h2>
+			Digital Resources are Ethereal and Alterable 
+		</h2>
+		
+		<p>
+			The advent of computers in today's society brought about a new medium for information, a digital medium. This digital information, by definition, is electronic and "general-purpose" in nature.[2] Initially used to compute tables of functions for the United States military, this digital information was later found useful for the creation and storage of textual information as well as numeric information. To complicate matters, this "general-purpose" medium was designed to be interpreted by some sort of "special-purpose machine" (a computer) and manifested through various output devices (like sound speakers, video monitors, or printers) before it can be made intelligible by people.[3] 
+		</p>
+		<p>
+			Because of digital information's electronic nature, digital information is necessarily ethereal and non-material. This presents special problems for us librarians since we have traditionally wanted to assign location codes to the items in our catalog. Considering digital information's ethereal nature, this is a difficult task. What should we do? Should we assign locations codes to a disk containing the information? Should the information be printed and then cataloged? If the item is a bibliographic index on a CD ROM and made available to our constituents through a public access computer, then should we catalog the CD and state the location of the computer? The situation gets even worse when the same bibliographic index is mounted through our online public access catalog (OPAC) software and available from a number of locations within the library and across campus.
+		</p>
+		<p>
+			A corollary stemming from this new medium's electronic nature is its alterability and malleability. Once a person (or even a computer) has possession of digital information it is very easy to change and manipulate it to fit particular, individual needs. The medium was designed with these purposes in mind. Furthermore, this information can then be put back into circulation and disseminated as if the altered information were identical to the original. Consequently, it is more difficult to assess the authenticity of digital information when compared to a library's traditional mediums. 
+		</p>
+		<p>
+			At this point in the discussion, it should be kept in mind that this digital medium can be used to communicate the same sorts of information as our traditional mediums. Digital information can be used to manifest monographs as exemplified by the items of Project Gutenburg or scholarly journals like the ones listed in the Directory of Electronic Journals, Newsletters, and Academic Discussion Lists.[4, 5] As alluded to earlier, digital information can also take the form of bibliographic indexes like the ERIC database.[6] Works of art like paintings and movies can also be stored in a digital medium.[7, 8] 
+		</p>
+		<p>
+			At the same time, the digital medium, especially combined with the Internet, has incarnated a number of new information formats as well. The epitomizing example is software, the set of codes instructing computers what to do. Along with sofware is the data used or created by the software, as well as the numbers and text being manipulated by the software itself. With the advent of computer networking, electronic mail (email), the electronic written communications between people, represents a new format for possible cataloging and classification. After computer networking, email evolved into Usenet newsgroups, mailing lists, and discussion groups on local and national bulletin board systems. Unlike a lot of traditional email communications, Usenet newsgroups, mailing lists, and discussion groups are sometimes archived and searchable, thus presenting libraries with opportunities for preservation, organization, and further dissemination.
+		</p>
+		<p>
+			As the Internet evolved from simple computer networking so did the forms of digital media. For example, FTP sites and telnet services were one of the first "things" to make themselves available through the Internet. FTP sites presented themselves as collections of digital artifacts (software, texts, images, etc.) Telnet services allowed people take advantage of a remote computer's facilities without the people having to be their physically. One of the most popular types of services telnet has provide has been our own OPACs.
+		</p>
+		<p>
+			As the Internet continues to mature, the services it provides are maturing as well. The gopher and HTTP (hypertext transfer protocol or more commonly called the World Wide Web or WWW) are excellent examples. These services not only provide a means for storing and accessing digital mediums, but they also provide methods for better organization and indexing of the items they contain, especially when compared to simple telnet and FTP services.
+		</p>
+		<p>
+			Lastly, as the functionality of computers has increased so has the types of information, specifically multimedia. Multimedia usually includes pictures and sound like typical movies. It might also include narratives and texts as well like other written materials. Distinguishing itself from these traditional medium, multimedia is often times more interactive than movies or sound recordings and consequently, the presentation of the information within the medium is a dynamic thing usually different every time it is used.
+		</p>
+		<p>
+			In summary, the birth of digital mediums for information have manifested themselves as traditional information resources, but they have also manifested themselves as completely new and different types of information. Information that is both ethereal, dynamic, and malleable. These qualities provide libraries with new challenges when it comes to cataloging and classification issues.
+		</p>
+	
+	<h2>
+			Historical Perspectives of Cataloging 
+		</h2>
+		
+		<p>
+			This is a good place to discuss the role and possible definition refinement of the library catalog. Hanson and Daily, in the Encyclopedia of Library and Information Science define the library catalog as "one of the many forms of bibliography. It is generally defined as a list of books contained within a single library and is comprehensive rather than selective." [9] This simplified definition of a library catalog, where the defining characteristic is one of inventory, has been echoed in a number of other dictionaries of library science, as well as histories of librarianship.[10, 11, 12] It also seems to be the public's main conception of a library's catalog.
+		</p>
+		<p>
+			These "traditional" views have sometimes given way to enhancements of the definition and purpose of a catalog. More specifically, these enhancements make the catalog a "finding aid" or index to the library as a whole. An often quoted manifestation of this idea was put forth by Cutter:
+		</p>
+		<blockquote>
+			<p>
+				In addition, in Rules for a Dictionary Catalog, Cutter contended that the purpose or objects of the catalog were as follows:
+			</p>
+			<ol>
+				<li>
+					To enable a person to find a book of which either is known: author, title, or subject.
+				</li>
+				<li>
+					To show what the library has by a given author, subject, or a in a given kind of literature.
+				</li>
+				<li>
+					To assist in the choice of a book: as to its edition (bibliographically) or as to its character (literary or topical).[13, 14] 
+				</li>
+			</ol>
+		</blockquote>
+		<p>
+			These ideas were echoed by the International Federation of Library Associations in 1963:
+		</p>
+		<blockquote>
+			<p>
+				Functions of the catalog. The catalog should be an efficient instrument for ascertaining:
+			</p>
+			<ul>
+				<li>
+					2.1 whether the library contains a particular book specified by: 
+					<ul>
+						<li>
+							it author and title, or
+						</li>
+						<li>
+							if the author is not named in the book, its title alone, or
+						</li>
+						<li>
+							if author and title are inappropriate or insufficient for identification, a suitable substitute for the title; and
+						</li>
+					</ul>
+				</li>
+				<li>
+					2.2 
+					<ul>
+						<li>
+							which works by a particular author and
+						</li>
+						<li>
+							which editions of a particular work are in a library.[15, 16]
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</blockquote>
+		<p>
+			Not only is this concept of a catalog defined by individuals and organizations of note, but this conception of a catalog has historical warrant as well:
+		</p>
+		<blockquote>
+			The fifteenth principle of librarianship is: Since libraries are storehouses of knowledge, they should also be arranged according to subject. ... All modern schemes of library classification -- Dewey, Universal Decimal Classification, Library of Congress, Bliss -- are designed for arrangment by subject. Prior to modern times, arrangment by subject was the rule, though in less sophisticated form. The library rooms in Ashurbanipal's palace were each devoted to a particular subject group: one room for tablets relating to history and government, another to those concerning legends and mythology, and so on.[17]
+		</blockquote>
+		<p>
+			In many ways, the philosophic and pragmatic issues surrounding the cataloging and classification of digital media echo the issues raised with the introduction of audio-visual materials into our collections. At that time, just like our own, the new media were viewed with both skepticism and jubilation. 
+		</p>
+	
+	<h2>
+			A Catalog's Definition Refined
+		</h2>
+		
+		<p>
+			The definitions of traditional and enhanced catalogs always assumed the materials (objects) of the catalog were physical in nature. Since the objects were only physical in nature, maybe it seemed fruitless to list items beyond the library's control. Catalogs are big and difficult to maintain even considering the number of items any one library owns. The problem would be even worse for items not directly under a library's control.
+		</p>
+		<p>
+			With the advent of electronic items, and the desire to make the catalog a finding aid, information resources found their way into library catalogs, even though these resources were not owned by the library. Thus, the catalog has become a tool more akin to a bibliography as oppose to a simple list. In keeping with this idea, records have appeared in library catalogs pointing to electronic-only bibliographic indexes available only through online database vendors like DIALOG.[18]
+		</p>
+		<p>
+			These electronic items, unlike physical items, are more "readily-available"; these items, assuming well maintained Internet sites and reliable connections, can be just as accessible, if not more so, than physical materials. Furthermore, these items have as much information value as many other objects in library catalogs. Therefore, since modern catalogs can be seen as finding aids to information on given subjects, and since Internet resources have as much value as traditional mediums, Internet resources should be included in library catalogs. This is seen as necessarily true when the definition of library catalogs is refined as in:
+		</p>
+		<blockquote>
+			A library catalog is an organized list of information resources arranged in all or any number of schemes (author, title, subject, accession, size, type, etc.) and these resources are readily-available to the intended clientele of the organized list.
+		</blockquote>
+	
+	<h2>
+			The Alcuin Project
+		</h2>
+		
+		<p>
+			In an effort to put some of these ideals into practice, the NCSU Libraries is in the process of developing methods for effectively and efficiently introducing digital mediums (Internet resources) into our OPAC. The balance of this article describes this process affectionately called the Aluin Project.[19] 
+		</p>
+		<h3>
+				Alex and Hunter Monroe
+			</h3>
+			
+			<p>
+				The Alcuin Project has its roots in the Alex database and Hunter Monroe.[20] Monroe, an economist by profession and a person who has done some computer work for the cataloging department at the Bodleian Library of Oxford University, had been maintaining a list of electronic documents. His goal was to create an OPAC-type database of Internet resources. He was going to accomplish this task by using a simple dBase IV database. Gopher link files, describing Internet-based electronic documents, were intended to be created on a regular basis and then copied to a gopher server for distribution.
+			</p>
+			<p>
+				The NCSU Libraries was lucky enough to foster a relationship with Monroe, and consequently, the NCSU Libraries has hosted his data on its gopher server.[21] Monroe named his database Alex. David Price of Radcliffe Science Library, Oxford University hosted the first version of Alex at Oxford.[22] 
+			</p>
+			<p>
+				Because every information system has to be browsable as well as searchable, the NCSU Libraries indexed the Alex database using the jughead technology. Later, since the hypertext transfer protocol (read WWW) was becoming popular, the NCSU Libraries experimented with methods of providing access to the Alex database via WWW browsers. While WWW browsers can interpret the gopher protocol, the WWW browsers were not being used to their fullest extent. Consequently, Monroe was asked to create a specialized report that would be easily indexable using the WAIS technology. Monroe obliged and a WWW interface to Alex was created.[23] 
+			</p>
+		
+		<h3>
+				Tim Kambitsch and WWW/DRA Gateway Scripts
+			</h3>
+			
+			<p>
+				At the same time the NCSU Libraries had been working with Tim Kambitsch on scripts to search our DRA-based OPAC with WWW browsers.[24]
+			</p>
+			<p>
+				These scripts allow the searcher to specify Boolean queries to be applied to selected databases on our OPAC (book and journal catalogs, catalogs of government documents, and potentially bibliographic indexes like Academic Index, or Business Index.) After installing these scripts on our own computers, we were able to search our OPAC using WWW browsers.[25] Furthermore, by including URLs in the 856 fields of MARC records, we were able to make hot links from our OPAC to Internet resources.
+			</p>
+			<p>
+				As an experiment, two records where imported into our OPAC (OCLC record numbers 26226155 and 20987125). These records describe ALAWON and Public Access Computer Systems Review (PACSR), respectively, and the records were edited to include 856 fields. These 856 fields contain URLs to the NCSU Libraries local collection of ALAWON and PACSR. (See Figures 1 and 2.) By adding URLs to our MARC records, and by searching our OPAC for these records through Kambitsch's scripts, searchers have the opportunity to navigate directly to the electronic resources after locating items of interest.[26] 
+			</p>
+		
+		<h3>
+				Figure 1
+			</h3>
+			
+			<p>
+				The MARC record below describes an electronic newsletter called ALAWON. This record was imported into our OPAC and edited to include an 856 field.
+			</p>
+
+
+<pre>AFW-1740   Entered: 06/16/1994   Last Modified: 02/21/1995         NCSU_CATALOG
+
+Type: a Bib l: s Enc l:   Desc: a Ctry: dcu Lang: eng Mod:   Srce: d Freq:
+ Reg: x ISDS: 1 Ser t:   Orig f:   Form:   Entire C:   Cont:     Gvt:
+ Cnf: 0 Alpha: a S/L: 0 Pub s: c Dates: 1992 9999
+
+003;   ;  a OCoLC $ 
+005;   ;  a 19940616115148.0 $ 
+010;   ;  a sn 93004037  $ o 26226155 $ 
+040;   ;  a VPI $ c VPI $ d NSD $ 
+012;   ;  l a $ 
+022; 0 ;  a 1069-7799 $ 
+042;   ;  a nsdp $ a lcd $ 
+082; 10;  a 025 $ 2 12 $ 
+090;   ;  a Z673.A5 $ b A42 $ 
+049;   ;  a NRCC $ 
+210; 0 ;  a ALA Wash. Office newsline $ 
+212; 1 ;  a American Library Association Washington Office newsline $ 
+222;  0;  a ALA Washington Office newsline $ 
+245; 00;  a ALA Washington Office newsline $ h [computer file] : $ b ALAWON : 
+         an electronic publication of the American Library Association 
+         Washington Office. $ 
+246; 10;  a ALAWON $ 
+260;   ;  a Washington, DC : $ b The Office, $ c [1992- $ 
+265;   ;  a American Library Association Washington Office, 110 Maryland Ave., 
+         NE, Washington, DC 20002-5675 $ 
+310;   ;  a Irregular $ 
+362; 0 ;  a Vol. 1, no. 1 (July 9, 1992)- $ 
+500;   ;  a Mode of access: Electronic mail on BITNET; listserv@uicvm; 
+         SUBSCRIBE ALA-WO First Name Last Name $ 
+500;   ;  a Title from title screen. $ 
+650;  0;  a Libraries $ z United States $ x Periodicals. $ 
+650;  0;  a Information services $ z United States $ x Periodicals. $ 
+610; 20;  a American Library Association. $ b Washington Office $ x Periodicals.
+          $ 
+710; 20;  a American Library Association. $ b Washington Office. $ 
+936;   ;  a Vol. 2, no. 18 (May 10, 1993) LIC $ 
+856; 00;  u http://www.lib.ncsu.edu/stacks/alawon-index.html $</pre>
+
+
+<h3>
+		Figure 2
+	</h3>
+	
+	<p>
+		The MARC record below describes an electronic journal, The Public Access Computer Systems Review. This record was imported into our OPAC and edited to include an 856 field.
+	</p>
+
+<pre>AFW-1741   Entered: 06/16/1994   Last Modified: 06/17/1994         NCSU_CATALOG
+
+Type: a Bib l: s Enc l: 7 Desc: a Ctry: txu Lang: eng Mod:   Srce: d Freq: t
+ Reg: r ISDS: 1 Ser t: p Orig f:   Form:   Entire C:   Cont:     Gvt:
+ Cnf: 0 Alpha: a S/L: 0 Pub s: c Dates: 1990 9999
+
+003;   ;  a OCoLC $ 
+005;   ;  a 19940616115330.0 $ 
+010;   ;  a sn 90000811  $ o 20987125 $ 
+040;   ;  a NSD $ c NSD $ d CAS $ d NSD $ 
+012;   ;  j 1 $ l a $ 
+022; 0 ;  a 1048-6542 $ 
+030;   ;  a PACRES $ 
+042;   ;  a nsdp $ a lcd $ 
+082; 10;  a 025 $ 2 11 $ 
+049;   ;  a NRCC $ 
+210; 0 ;  a Public-access comput. syst. rev. $ b (Electron. ed.) $ 
+222;  4;  a The Public-access computer systems review $ b (Electronic ed.) $ 
+245; 04;  a The Public-access computer systems review $ h [computer file]. $ 
+246; 10;  a Public access computer systems review $ 
+246; 13;  a PACS review $ 
+250;   ;  a [Electronic ed.]. $ 
+260;   ;  a Houston, TX : $ b University Libraries, University of Houston, $ c 
+         1990- $ 
+265;   ;  a PACS Review, c/o University Libraries, University of Houston, 
+         Houston, TX 77204-2091 $ 
+310;   ;  a Three times a year $ 
+362; 0 ;  a Vol. 1, no. 1- $ 
+500;   ;  a Mode of access: Electronic mail on BITNET and Internet; Send an 
+         e-mail message to: (BITNET) LISTSERV@UHUPVM1 or (Internet) 
+         LISTSERV@UHUPVM1.UH.EDU that says: Subscribe PACS-P First Name Last 
+         Name; also available through a subscription to the Public-access 
+         Computer Systems Forum, PACS-L@UHUPVM1.BITNET $ 
+500;   ;  a Description based on printout of online display; title from title 
+         screen. $ 
+580;   ;  a Also available in an annual print ed. under the same title. $ 
+710; 20;  a University of Houston. $ b Libraries. $ 
+775; 1 ;  t Public-access computer systems review (Print ed.) $ x 1063-164X $ w 
+         (DLC)sn 92004809 $ w (OCoLC)25907292 $ 
+856;   ;  u http://dewey.lib.ncsu.edu/stacks/pacsr-index.html $
+</pre>
+
+
+<h3>
+		Alex + Gateway Scripts = Alcuin
+	</h3>
+	
+	<p>
+		By combining the data from the Alex database with the WWW/DRA gateway scripts, the NCSU Libraries was able to create the first iteration of the Alcuin database. The Alcuin database is an MARC-record based database of Internet resources.
+	</p>
+	<p>
+		This is how it was created. Monroe was contacted again and asked to create a new report from his dBase IV database. This time, instead of producing gopher link files or data that can be easily indexed by WAIS, his output was a list of rudimentary tagged MARC records. (See Figure 3.)
+	</p>
+
+<h3>
+		Figure 3
+	</h3>
+	
+	<p>
+		This is a sampling of an output file from Hunter Monroe. The file represents extremely simplified tagged MARC records from his Alex database. Each caret-underbar symbol (^_) represents ASCII character 31, end of subfield. Each field is delimited by a new line. Each record is delimited by a blank link. Thus, this figure lists only four records from the almost 2000 records in the Alex database. This file can be retrieved from ftp://ftp.lib.ncsu.edu/pub/stacks/alex/alex-950224-tagged.txt.
+	</p>
+
+
+<pre>
+041;0 ;^_aeng
+100;1 ;^_aDoctress Neutopia
+245;00;^_aCold war still burns
+856;  ;^_s3k ^_ugopher://english-server.hss.cmu.edu:70/00ftp%3aEnglish%20Ser
+ver%3aPoetry:Cold%20War%20Still%20Burns
+959;  ;^_aPoetry
+
+041;0 ;^_aeng
+245;00;^_aMagna carta
+856;  ;^_ugopher://gopher.vt.edu:10010/11/119
+959;  ;^_aHistory
+
+041;0 ;^_aeng
+245;00;^_aHard driving
+856;  ;^_s1k ^_ugopher://english-server.hss.cmu.edu:70/00ftp%3aEnglish%20Ser
+ver%3aPoetry:Hard%20Driving
+959;  ;^_aPoetry
+
+041;0 ;^_aeng
+100;1 ;^_aShakespeare, William^_d1564-1616
+245;00;^_aComplete Shakespeare
+856;  ;^_ugopher://cs.uwp.edu:70/11/pub/etext/shakespeare
+959;  ;^_aDrama
+</pre>
+
+
+<p>
+	Monroe's output was then processed with a locally develeoped utility called Alcuin's Little Helper. Alcuin's Little Helper, written in VisualBasic and running under Microsoft Windows, is based on:
+</p>
+<blockquote>
+	The OS/2 Visual REXX program used to create LC MARC records [. It] is the result of a joint effort by Dick Thaxter and David Williamson to provide a more graphical and user-friendly interface between catalogers, electronic texts, and the systems used to create MARC records at LC.[27] 
+</blockquote>
+<p>
+	In short, Alcuin's Little Helper is a very simple MARC record editor. It can be used to create MARC records by hand or convert Monroe's tagged output to MARC records. (See Figure 4.)
+</p>
+
+<h3>
+		Figure 4
+	</h3>
+	
+	<p>
+		This is screen shot of Alucin's Little Helper, a very simple MARC record editor. By selecting the buttons and pasting text, the cataloger can create valid MARC records for their OPAC database. Alternatively, the cataloger can import the output shown in Figure 3 to create MARC records as well. The process takes about 15 minutes to process all of the data in the Alex output file. This program and its source code are available at ftp://ftp.lib.ncsu.edu/pub/software/dos/alhelper.zip.
+	</p>
+<table>
+<tr valign="top">
+<td align="center">
+<img src="figure-4-small.gif" alt="Figure 4, A screen shot of Alcuin's Little Helper."/>
+<br/>
+<span class="caption"><a href="figure-4-big.gif">Figure 4, A screen shot of Alcuin's Little Helper.</a></span>
+
+</td>
+</tr>
+</table>
+	<p>
+		Using Alcuin's Little Helper, Monroe's tagged output was imported and converted into true, rather simplified MARC records. (See Figure 5.)
+	</p>
+
+<h3>
+		Figure 5
+	</h3>
+	
+	<p>
+		These are three MARC records are examples of tagged manifestations of the MARC records created by Aluin's Little Helper. These records were created from the file listed in Figure 3. The sum of these records, in true MARC communications format, is available at ftp://ftp.lib.ncsu.edu/pub/stacks/alex/alex-950224-marc.txt and should be completely compatible with any OPAC database software.
+	</p>
+
+<pre>
+DBCN: PAA-0647               Entered: 03/13/1995        Modified: 03/13/1995
+
+Type: m Bib l: m Enc l: 2 Desc: a
+
+041; 1 ;a angeng $
+100; 1 ;a Plato $
+245; 00;a Collected works $
+700; 1 ;a Jowett, Benjamin $d 1817-1893 $
+856;   ;u gopher://gopher.vt.edu:10010/01/131 $
+959;   ;a Philosophy $
+
+
+DBCN: PAA-0481               Entered: 03/13/1995        Modified: 03/13/1995
+
+Type: m Bib l: m Enc l: 2 Desc: a
+
+041; 1 ;a angeng $
+100; 1 ;a Aristotle $
+245; 04;a The Athenian constitution $
+260;   ;c BC $
+700; 1 ;a Kenyon, Frederic G. (Frederic George), Sir $d 1863-1952 $
+856;   ;u gopher://gopher.vt.edu:10010/02/39/3 $
+959;   ;a History $
+
+
+DBCN: PAA-0386               Entered: 03/13/1995        Modified: 03/13/1995
+
+Type: m Bib l: m Enc l: 2 Desc: a
+
+041; 0 ;a eng $
+100; 1 ;a Twain, Mark $d 1835-1910 $
+245; 04;a The adventures of Huckleberry Finn $
+260;   ;a New York $b Harper &amp; Brothers $c 1912 $
+773;   ;a Writings of Mark Twain Volume XIII $
+856;   ;s 390k  $u gopher://wiretap.spies.com:70/00/Library/Classic/huckfinn
+         mt $
+956;   ;b 1912 $
+957;   ;a PG  76 WT $b pg/etext93/sawyr10.txt $
+958;   ;a Dell, Thomas $b dell@wiretap.spies.com $
+959;   ;a Fiction $
+</pre>
+
+<p>
+	These records were then imported into a newly created DRA database and made available through Kambitsch's gateway scripts. (See Figure 6.)
+</p>
+
+<h3>
+		Figure 6
+	</h3>
+	
+	<p>
+		This is a screen shot of the Alcuin database as it appears in a WWW browser's window. The database itself is available itself at http://library.ncsu.edu/drabin/alcuin/. Using this interface you should be able to search the contents of the Alex database. The database consists of MARC records containing URLs in the 856 fields. The interface this service works through is based on Tim Kambitsch's DRA/WWW gateway scripts and translates the contents of subfield u of 856 fields into "hot links."
+	</p>
+
+<table>
+<tr valign="top">
+<td align="center">
+<img src="figure-6-small.gif" alt="Figure 6, A screen shot of the Alcuin database of Internet Resources."/>
+<br/>
+<span class="caption"><a href="figure-6-big.gif">Figure 6, A screen shot of the Alcuin database of Internet Resources.</a></span>
+
+</td>
+</tr>
+</table>
+
+
+
+<h2>
+		Formalizing the Process
+	</h2>
+	
+	<p>
+		So far the philosophic rational for including Internet resources into OPAC has been established. Additionally, the technical aspects of including Internet resources into our OPAC have been demonstrated. What remains is to formalize the collections/acquisitions/cataloging process needed to make it all come together.
+	</p>
+	<h3>
+			The Collection and Acquisitions Process
+		</h3>
+		
+		<p>
+			Before an item can be put into the Alcuin database, it must be selected and possibly aquired. This aspect of the process may be handled by the collection management and acquisitions departments, respectfully. First, our collection managment department "listen" to the Internet. Based on its knowledge of the needs of our clientele, collection managers select Internet resources to be added to the database. If the Internet resource is an item the library actually wants to own, then a URL pointing to the ressource is passed on to the acquisitions department. At that time, the acquisistions department retreived the item and put it in an "electronic inbox" for the cataloging department. If the Internet resources is not something the libraries wants to own, then the URL pointing to the resource is passed directly to the cataloging department bypassing the acquisitions department.
+		</p>
+	
+	<h3>
+			Creating and Adding Items to Alcuin
+		</h3>
+		
+		<p>
+			Once a cataloger became aware of a new item to added to the database, the cataloger used his/her professional skills to analyze the resource and create a MARC describing the resource based on their analysis. To ease the creation of these original records, Alcuin's Little Helper, which allows a cataloger to cut, copy, and paste data from various Internet client applications, will be used. The records generated by Alcuin's Little Helper are then be added to the Aluin database.
+		</p>
+	
+	<h3>
+			Providing Access to Alcuin
+		</h3>
+		
+		<p>
+			Providing effective access to any information system requires varying degrees of browsablility and searchability. To facilitate our clientele the ability to browse Alcuin an HTTP server will be put into place. The data contained on this server will be generated on regular basis from the contents of the Alcuin database. This data will essentially be a large set of hypertext markup language documents.
+		</p>
+		<p>
+			The ability to browse an information system has its advantages and disadvantages. By providing a method for searching an information system some of those disadvantages can be overcome. More specifically, the DRA/WWW gateway scripts will provide the search features for the database.
+		</p>
+	
+
+<h2>
+		Summary
+	</h2>
+	
+	<p>
+		First, this essay has described a philosophy of cataloging advocating the addition of Internet resources into our OPAC databases. This was validated through the following definition of a library catalog:
+	</p>
+	<blockquote>
+		A library catalog is an organized list of information resources arranged in all or any number of schemes (author, title, subject, accession, size, type, etc.) and these resources are readily-available to the intended clientele of the organized list.
+	</blockquote>
+	<p>
+		Second, this essay described a method the NCSU Libraries is exploring for including Internet resources into its OPAC database (catalog). This method includes the creation of MARC records with URLs in the 856 fields of these records. It also includes the use of a DRA/WWW gateway script allowing searchers to locate records in the database and render the contents of the 856 fields as "hot links."
+	</p>
+	<p>
+		Third, this essay outlined work flow guidelines whereby selected Internet resources can be selected and ultimately made available through our OPAC software.
+	</p>
+
+<h2>
+		Notes
+	</h2>
+	
+	<ol>
+		<li>
+			This text can also be found at 
+			<a href="http://www.lib.ncsu.edu/staff/morgan/cataloging-digital-mediums.html">http://www.lib.ncsu.edu/staff/morgan/cataloging-digital-mediums.html</a>
+		</li>
+		<li>
+			Arthur W. Burks, Herman H. Goldstine, and John von Neuman, "Preliminary Discussion of the Logical Design of an Electronic Computing Instrument Part I, Vol. I." Report prepared for U.S. Army Ord. Dept. under contract W-36-034-ORD-7481 in A. H. Taub, ed. John von Neuman Collected Works Vol. V: Design of Computers, Theory of Automata and Numerical Analysis. (New York: Pergamon, 1963), 35.
+		</li>
+		<li>
+			Ibid.
+		</li>
+		<li>
+			<a href="http://jg.cso.uiuc.edu/pg/lists/list.html">http://jg.cso.uiuc.edu/pg/lists/list.html</a>
+		</li>
+		<li>
+			<a href="gopher://arl.cni.org:70/11/scomm/edir">gopher://arl.cni.org:70/11/scomm/edir</a>
+		</li>
+		<li>
+			<a href="telnet://eric@sklib.usask.ca/">telnet://eric@sklib.usask.ca/</a>
+		</li>
+		<li>
+			<a href="http://pmwww.cs.vu.nl/archive/images/arts.html">http://pmwww.cs.vu.nl/archive/images/arts.html</a>
+		</li>
+		<li>
+			<a href="http://www.msstate.edu/Movies/">http://www.msstate.edu/Movies/</a>
+		</li>
+		<li>
+			Eugene R. Hanson and Jay E. Daily "Catalogs and Cataloging" in Allen Kent and Harold Lancour, ed. Encyclopedia of Library and Information Science ( New York: Marcel Dekker, 1970), v.4 p. 242.
+		</li>
+		<li>
+			Thomas Landau, ed. Encylopedia of Librarianship, 3rd ed. (London: Bowes &amp; Bowes, 1966) pg. 90.
+		</li>
+		<li>
+			Elizabeth H. Thompson. ALA Glossary of Library Terms with a Selection of Terms in Related Fields. (ALA: Chicago, 1943), 24.
+		</li>
+		<li>
+			James Thompson, A History of the Principles of Librarianship. (Hamden, CN: Linnet, 1977)
+		</li>
+		<li>
+			Thomas Landau, ed. Encylopedia of Librarianship, 3rd ed. (London: Bowes &amp; Bowes, 1966), 245.
+		</li>
+		<li>
+			Martha, M. Yee, "What Is a Work? Part 1: The User and the Objects of the Catalog," Cataloging and Classification Quarterly 19(1994):12.
+		</li>
+		<li>
+			Ibid.
+		</li>
+		<li>
+			Yee cites an earlier version of this statement in Martha, M. Yee, "What Is a Work? Part 1: The User and the Objects of the Catalog," Cataloging and Classification Quarterly 19(1994):15.
+		</li>
+		<li>
+			James Thompson, A History of the Principles of Librarianship. (Linnet: Hamden, CN, 1977), 223.
+		</li>
+		<li>
+			Sanford Berman, ed. "Appendix A", Cataloging Special Materials: Critiques and Innovations. (Phoenix, AR: Oryx Press, 1986), 161-169.
+		</li>
+		<li>
+			Alcuin of York (b. circa 735 - d. May 19, 804) was a Medieval librarian and advisor to Charlemagne. A respected scholar of the time, Alcuin was a driving force behind the Carolingian Renaissance. Alcuin is being honored here because he exemplifies the ideals of librarianship. He took the learning of his time, organized it, and provided a means for disseminating it for the benefit of society.
+		</li>
+		<li>
+			<a href="http://www.lib.ncsu.edu/stacks/alex-index.html">http://www.lib.ncsu.edu/stacks/alex-index.html</a>
+		</li>
+		<li>
+			<a href="gopher://vega.lib.ncsu.edu:70/11/library/stacks/Alex">gopher://vega.lib.ncsu.edu:70/11/library/stacks/Alex</a>
+		</li>
+		<li>
+			<a href="gopher://rsl.ox.ac.uk:70/11/lib-corn/hunter">gopher://rsl.ox.ac.uk:70/11/lib-corn/hunter</a>
+		</li>
+		<li>
+			<a href="http://www.lib.ncsu.edu/stacks/alex-index.html">http://www.lib.ncsu.edu/stacks/alex-index.html</a>
+		</li>
+		<li>
+			<a href="http://dmcpl.dayton.lib.oh.us/~kambitsch/niso/www2dra_forms_NL.html">http://dmcpl.dayton.lib.oh.us/~kambitsch/niso/www2dra_forms_NL.html</a>
+		</li>
+		<li>
+			<a href="http://ncsulib4.lib.ncsu.edu/drabin/niso_forms">http://ncsulib4.lib.ncsu.edu/drabin/niso_forms</a>
+		</li>
+		<li>
+			You can give this a try by pointing your WWW browser to http://library.ncsu.edu/drabin/niso_forms and then searching for "alawon" or "public and access and computer and systems and review."
+		</li>
+		<li>
+			<a href="http://lcweb.loc.gov/catdir/ecip/ecip.html">http://lcweb.loc.gov/catdir/ecip/ecip.html</a>
+		</li>
+	</ol>
+
+
+
+    
+    
+    
+  
+</div>
+</body>
+</html>

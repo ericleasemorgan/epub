@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Northanger Abbey / Jane Austen</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+<body>
+    <div class='title-page'>
+    <h1>Northanger Abbey</h1>
+    <p>by</p>
+    <h1>Jane Austen</h1>
+    <br />
+    <br />
+    <p>Written in 1803</p>
+    </div>
+</body>
+</html>

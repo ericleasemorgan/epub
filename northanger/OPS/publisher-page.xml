@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Publisher's page</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+<body>
+    <div class='title-page'>
+	<p>This book was published 2011-04-4</p>
+	<p>by</p>
+	<p>Infomotions, Inc.</p>
+	<p>see also</p>
+	<p><a href="http://infomotions.com/alex/">http://infomotions.com/alex/</a></p>
+	<br />
+	<p><img src='images/logo.gif' alt='logo' /></p>	
+	<p>Infomotions Man says, "Give back to the 'Net."</p>
+	</div>
+	</body>
+</html>
